@@ -1,0 +1,8 @@
+C:\projects\ResponsiveWinFormsWithTPL\bin\Debug\ResponsiveWinFormsWithTPL.exe
+C:\projects\ResponsiveWinFormsWithTPL\bin\Debug\ResponsiveWinFormsWithTPL.pdb
+C:\projects\ResponsiveWinFormsWithTPL\obj\Debug\ResponsiveWinFormsWithTPL.csprojResolveAssemblyReference.cache
+C:\projects\ResponsiveWinFormsWithTPL\obj\Debug\ResponsiveWinFormsWithTPL.MainForm.resources
+C:\projects\ResponsiveWinFormsWithTPL\obj\Debug\ResponsiveWinFormsWithTPL.Properties.Resources.resources
+C:\projects\ResponsiveWinFormsWithTPL\obj\Debug\ResponsiveWinFormsWithTPL.csproj.GenerateResource.Cache
+C:\projects\ResponsiveWinFormsWithTPL\obj\Debug\ResponsiveWinFormsWithTPL.exe
+C:\projects\ResponsiveWinFormsWithTPL\obj\Debug\ResponsiveWinFormsWithTPL.pdb
